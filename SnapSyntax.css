@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.swiper-slide:nth-of-type(1){
+    background-color: #ace4e3;
+    height: 800px;
+    border:0.1px black solid;
+
+width:100%}
+.abc{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 2px;
+}
+.def{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 2px;
+    position:absolute;
+    top:770px;
+}
+#f{padding-left: 430px;
+}
+
+.fi{
+    position:absolute;
+    top:300px;
+    left:500px;
+}
+.num{
+    background-color:#0B4350;
+        height: 800px;
+    border:0.1px black solid;
+    font-size:50px
+}
+#fuck{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+}
+.page4{
+    color: white;
+    background-color: rgb(3, 0, 18);
+
+}
+.cont4{
+    width: 80vw;
+    height: auto;
+margin: auto;
+border: 10px solid rgb(100, 1, 55) ;
+border-radius: 20px;
+}
+
+.mf1{
+    width: 80vw;
+    height: 80vh;
+}
+#num{
+    height: 30%;
+    font-size: 12rem;
+    font-weight: 900;
+    padding: 5vh 0 5vw 5vh;
+}
+#m_f{
+    width: 100%;
+    display: flex;
+}
+#myth,#fact{
+    width: 45%;
+    padding: 3vw;
+}
+.page3{
+    background-color: #0B4350;
+}
+
+
